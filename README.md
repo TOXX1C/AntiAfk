@@ -1,3 +1,5 @@
 # AntiAfk
 
-AntiAfk script made by **Headshot#5868**. This Script is not made by me. 
+This Script was not made by me.
+
+All credits go to **Headshot#5868**
